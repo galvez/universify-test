@@ -1,6 +1,6 @@
 # universify-test
 
-`universify` is an upcoming SSR microframework from the @fastify team.
+`universify` is an upcoming SSR microframework.
 
 It is ESM-first, built 100% on ESM code, including the CLI.
 
